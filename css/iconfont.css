@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4775723 */
+  src: url('//at.alicdn.com/t/c/font_4775723_vslegr3o1al.woff2?t=1733753320999') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4775723_vslegr3o1al.woff?t=1733753320999') format('woff'),
+       url('//at.alicdn.com/t/c/font_4775723_vslegr3o1al.ttf?t=1733753320999') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-QQ:before {
+  content: "\e65e";
+}
+.card_icon {
+  /* 修改颜色 */
+  color: blue;
+  /* 修改大小 */
+  font-size: 24px;
+}
+
+.icon-bilibili:before {
+  content: "\e609";
+}
+
+
