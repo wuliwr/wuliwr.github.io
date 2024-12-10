@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>COSMOS</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>http://wuliwr.github.io/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://wuliwr.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-12-09T07:42:31.369Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://wuliwr.github.io/"/>
+  <updated>2024-12-10T02:44:39.332Z</updated>
+  <id>http://wuliwr.github.io/</id>
   
   <author>
     <name>wuliwr</name>
@@ -17,9 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>blog_test</title>
+    <link href="http://wuliwr.github.io/2024/12/10/blog_test/"/>
+    <id>http://wuliwr.github.io/2024/12/10/blog_test/</id>
+    <published>2024-12-10T04:00:00.000Z</published>
+    <updated>2024-12-10T02:44:39.332Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;这是一篇测试博客文章。 &lt;/p&gt;
+&lt;h3 id=&quot;代码块效果测试&quot;&gt;&lt;a href=&quot;#代码块效果测试&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="test" scheme="http://wuliwr.github.io/categories/test/"/>
+    
+    
+    <category term="test" scheme="http://wuliwr.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/12/09/hello-world/"/>
-    <id>http://example.com/2024/12/09/hello-world/</id>
+    <link href="http://wuliwr.github.io/2024/12/09/hello-world/"/>
+    <id>http://wuliwr.github.io/2024/12/09/hello-world/</id>
     <published>2024-12-09T07:42:31.369Z</published>
     <updated>2024-12-09T07:42:31.369Z</updated>
     
